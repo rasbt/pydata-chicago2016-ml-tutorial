@@ -24,3 +24,18 @@ If you already have a GitHub account, the probably most convenient way to obtain
 If you don’t have an GitHub account, you can download the repository as a .zip file by heading over to the GitHub repository (https://github.com/rasbt/scipy-2016-sklearn) in your browser and click the green “Download” button in the upper right.
 
 ![](images/github-download.png)
+
+
+# Installation Notes and Requirements
+
+This tutorial will require recent installations of
+
+- [NumPy](http://www.numpy.org)
+- [SciPy](http://www.scipy.org)
+- [matplotlib](http://matplotlib.org)
+- [scikit-learn](http://scikit-learn.org/stable/)
+- [IPython](http://ipython.readthedocs.org/en/stable/)
+- [Jupyter Notebook](http://jupyter.org)
+- [Watermark](https://pypi.python.org/pypi/watermark)
+
+Please make sure that you have these libraries installed in your current Python environment prior to attending the tutorial if you want to execute the code examples that are executed during the talk. Please also note that exectuting these examples during/after the talk is merely a suggestion, not a requirement.
