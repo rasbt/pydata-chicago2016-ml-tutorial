@@ -14,28 +14,37 @@ If you have any questions about the tutorial, please don't hesitate to contact m
 
 # Schedule
 
-This repository will contain the teaching material and other info for the *Learning scikit-learn* tutorial at the [PyData Chicago 2016 Conference](http://pydata.org/chicago2016/) held Aug 26-28. The tutorial session takes place in Room 1 on Friday Aug. 26, 2016 at 9:00 am.
+This repository will contain the teaching material and other info for the *Learning scikit-learn* tutorial at the [PyData Chicago 2016 Conference](http://pydata.org/chicago2016/) held Aug 26-28.
+
+- The tutorial session takes place on Friday Aug. 26, 2016 at 9:00 am (Room 1)
 
 
 # Obtaining the Tutorial Material
 
-If you already have a GitHub account, the probably most convenient way to obtain the tutorial material is to clone this GitHub repository via `git clone https://github.com/rasbt/scipy-2016-sklearn.git` and fetch updates via `pull origin master`
+If you already have a GitHub account, the probably most convenient way to obtain the tutorial material is to clone this GitHub repository via `git clone https://github.com/rasbt/pydata-chicago2016-ml-tutorials` and fetch updates via `pull origin master`
 
-If you don’t have an GitHub account, you can download the repository as a .zip file by heading over to the GitHub repository (https://github.com/rasbt/scipy-2016-sklearn) in your browser and click the green “Download” button in the upper right.
+If you don’t have an GitHub account, you can download the repository as a .zip file by heading over to the GitHub repository (https://github.com/rasbt/pydata-chicago2016-ml-tutorial) in your browser and click the green “Download” button in the upper right.
 
 ![](images/github-download.png)
 
 
 # Installation Notes and Requirements
 
-This tutorial will require recent installations of
+The tutorial code should be compatible to both Python 2.7 and Python 3.x. but will require recent installations of
 
 - [NumPy](http://www.numpy.org)
 - [SciPy](http://www.scipy.org)
 - [matplotlib](http://matplotlib.org)
+- [pandas](http://pandas.pydata.org)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [IPython](http://ipython.readthedocs.org/en/stable/)
 - [Jupyter Notebook](http://jupyter.org)
 - [Watermark](https://pypi.python.org/pypi/watermark)
 
-Please make sure that you have these libraries installed in your current Python environment prior to attending the tutorial if you want to execute the code examples that are executed during the talk. Please also note that exectuting these examples during/after the talk is merely a suggestion, not a requirement.
+
+Please make sure that you have these libraries installed in your current Python environment prior to attending the tutorial if you want to execute the code examples that are executed during the talk. Please also note that executing these examples during/after the talk is merely a suggestion, not a requirement. **I highly recommend you to open the [notebooks/check_environment.ipynb](notebooks/check_environment.ipynb) notebook as a Jupyter notebook**, for instance by executing
+
+```bash
+jupyter notebook <path-to>/ pydata-chicago2016-ml-tutorial
+/notebooks/check_environment.ipynb
+```
