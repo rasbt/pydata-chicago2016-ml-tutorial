@@ -30,7 +30,7 @@ If you don’t have an GitHub account, you can download the repository as a .zip
 
 # Installation Notes and Requirements
 
-The tutorial code should be compatible to both Python 2.7 and Python 3.x. but will require recent installations of
+Please note that installing the following libraries and running code alongside is **not a hard requirement for attending the tutorial session**, you will be able to follow along just fine (and probably be less distracted :)). Now, the tutorial code should be compatible to both Python 2.7 and Python 3.x. but will require recent installations of
 
 - [NumPy](http://www.numpy.org)
 - [SciPy](http://www.scipy.org)
@@ -39,12 +39,13 @@ The tutorial code should be compatible to both Python 2.7 and Python 3.x. but wi
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [IPython](http://ipython.readthedocs.org/en/stable/)
 - [Jupyter Notebook](http://jupyter.org)
-- [Watermark](https://pypi.python.org/pypi/watermark)
+- [watermark](https://pypi.python.org/pypi/watermark)
+- [mlxtend](http://rasbt.github.io/mlxtend/)
 
 
-Please make sure that you have these libraries installed in your current Python environment prior to attending the tutorial if you want to execute the code examples that are executed during the talk. Please also note that executing these examples during/after the talk is merely a suggestion, not a requirement. **I highly recommend you to open the [notebooks/check_environment.ipynb](notebooks/check_environment.ipynb) notebook as a Jupyter notebook**, for instance by executing
+Please make sure that you have these libraries installed in your current Python environment prior to attending the tutorial if you want to execute the code examples that are executed during the talk. Please also note that executing these examples during/after the talk is merely a suggestion, not a requirement. **I highly recommend you to open the code/check_environment.ipynb](code/check_environment.ipynb) notebook as a Jupyter notebook**, for instance by executing
 
 ```bash
-jupyter notebook <path-to>/ pydata-chicago2016-ml-tutorial
-/notebooks/check_environment.ipynb
+jupyter notebook <path-to>/pydata-chicago2016-ml-tutorial
+/code/check_environment.ipynb
 ```
