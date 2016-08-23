@@ -12,8 +12,8 @@ If you have any questions about the tutorial, please don't hesitate to contact m
 
 ---
 
-- View presentation slides: [slides/PyDataChi2016_sr.pdf] {rest follows soon}
-- View code notebook: [code/tutorial.ipynb] {rest follows soon}
+- [View presentation slides](slides/PyDataChi2016_sr.pdf) {rest follows soon}
+- [View code notebook](code/tutorial.ipynb) {rest follows soon}
 
 ---
 
