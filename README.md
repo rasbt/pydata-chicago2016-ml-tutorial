@@ -43,9 +43,11 @@ Please note that installing the following libraries and running code alongside i
 - [mlxtend](http://rasbt.github.io/mlxtend/)
 
 
-Please make sure that you have these libraries installed in your current Python environment prior to attending the tutorial if you want to execute the code examples that are executed during the talk. Please also note that executing these examples during/after the talk is merely a suggestion, not a requirement. **I highly recommend you to open the code/check_environment.ipynb](code/check_environment.ipynb) notebook as a Jupyter notebook**, for instance by executing
+Please make sure that you have these libraries installed in your current Python environment prior to attending the tutorial if you want to execute the code examples that are executed during the talk. Please also note that executing these examples during/after the talk is merely a suggestion, not a requirement. **I highly recommend you to open the code/check_environment.ipynb](code/check_environment.ipynb) notebook as a Jupyter notebook**, for instance by the notebook via
 
 ```bash
-jupyter notebook <path-to>/pydata-chicago2016-ml-tutorial
-/code/check_environment.ipynb
+jupyter notebook <path-to>/pydata-chicago2016-ml-tutorial/code/check_environment.ipynb
 ```
+and executing the code cells:
+
+![](images/checkenv-example.png)
