@@ -21,8 +21,10 @@ If you have any questions about the tutorial, please don't hesitate to contact m
 
 This repository will contain the teaching material and other info for the *Learning scikit-learn* tutorial at the [PyData Chicago 2016 Conference](http://pydata.org/chicago2016/) held Aug 26-28.
 
-- The tutorial session takes place on **Friday Aug. 26, 2016 at 9:00 am (Room 1)**
+- When? **Fri Aug. 26, 2016 at 9:00 - 10:30 am**
+- Where? **Room 1**
 
+(I recommend watching the PyData [schedule](http://pydata.org/chicago2016/schedule/) for updates).
 
 # Obtaining the Tutorial Material
 
