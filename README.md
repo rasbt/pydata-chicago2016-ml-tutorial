@@ -14,6 +14,7 @@ If you have any questions about the tutorial, please don't hesitate to contact m
 
 - View the presentation slides [here](slides/PyDataChi2016_sr.pdf) / on [SpeakerDeck](https://speakerdeck.com/rasbt/learning-scikit-learn-an-introduction-to-machine-learning-in-python-at-pydata-chicago-2016)
 - View the code notebook [here](code/tutorial.ipynb) / on [nbviewer](http://nbviewer.jupyter.org/github/rasbt/pydata-chicago2016-ml-tutorial/blob/master/code/tutorial.ipynb)
+- [Video recording](https://www.youtube.com/watch?v=9fOWryQq9J8) of the talk on YouTube
 
 ---
 
